@@ -2,4 +2,4 @@ def current_age_for_birth_year (birth_year)
   Time.now - birth_year
 end
 
-puts current_age_for_birth_year(19)
+puts current_age_for_birth_year(2000)
